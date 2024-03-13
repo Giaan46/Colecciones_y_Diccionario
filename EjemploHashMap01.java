@@ -3,7 +3,7 @@ import java.util.HashMap;
 /**
  * Ejemplo de uso de la clase HasMap
  *
- * @author Luis José Sánchez
+ * @author Gianluca Maida
  */
 public class EjemploHashMap01 {
   public static void main(String[] args) {
