@@ -3,7 +3,7 @@ import java.util.ArrayList;
 /**
  * Uso de un ArrayList de objetos
  * 
- * @author Luis José Sánchez
+ * @author Gianluca Maida 
  */
 public class EjemploArrayList07 {
   public static void main(String[] args) {
