@@ -1,7 +1,7 @@
 /**
  * Definición de la clase Gato
  * 
- * @author
+ * @author Gianluca Maida 
  */
 public class Gato implements Comparable<Gato> {
   private String nombre;
