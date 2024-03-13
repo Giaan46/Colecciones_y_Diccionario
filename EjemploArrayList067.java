@@ -4,7 +4,7 @@ import java.util.ArrayList;
  * Ejemplo de uso de la clase ArrayList.
  * Borrado de elementos con removeIf().
  * 
- * @author Luis José Sánchez
+ * @author Gianluca Maida 
  */
 public class EjemploArrayList067 {
   public static void main(String[] args) {
