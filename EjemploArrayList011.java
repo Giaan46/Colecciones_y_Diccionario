@@ -3,7 +3,7 @@ import java.util.ArrayList;
 /**
  * Ejemplo de uso de la clase ArrayList
  * 
- * @author Luis José Sánchez
+ * @author Gianluca Maida
  */
 public class EjemploArrayList011 {
   public static void main(String[] args) {
