@@ -4,7 +4,7 @@ import java.util.Collections;
 /**
  * Ordenación de un ArrayList de objetos
  * 
- * @author Luis José Sánchez
+ * @author Gianluca Maida 
  */
 public class EjemploArrayList08 {
   public static void main(String[] args) {
