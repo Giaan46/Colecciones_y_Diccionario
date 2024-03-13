@@ -4,7 +4,7 @@ import java.util.Map;
 /**
  * Ejemplo de uso de la clase HashMap
  * 
- * @author Luis José Sánchez
+ * @author Gianluca Maida 
  */
 public class EjemploHashMap02 {
   public static void main(String[] args) {
